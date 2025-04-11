@@ -44,7 +44,7 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
 
 ## 📫 Conéctate conmigo
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/josue-hernandez-5788391ab/)) *(añade tu perfil aquí)*
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/josue-hernandez-5788391ab/)) 
 - ✉️ josuehernandezorro147@gmail.com
 - 🌐 [Portafolio Web] *Próximamente*
 
