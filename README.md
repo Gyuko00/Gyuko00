@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Josué David Hernández Zorro
 
-🎓 Soy **Estudiante Universitario**  
+🎓 Soy **Desarrollador Web y Estudiante Universitario**  
 Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación, diseño y seguridad, todo con un enfoque moderno y práctico. 
 
 🚀 Creo en el poder de la tecnología como motor de cambio y desarrollo. Actualmente enfoco mis esfuerzos en proyectos que integran experiencias interactivas, herramientas educativas digitales, backends sólidos y componentes visuales atractivos.
@@ -18,11 +18,14 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" alt="Astro"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" alt="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
 </p>
 
 ---
