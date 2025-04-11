@@ -39,15 +39,15 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
 ---
 
 ## 📚 Proyectos destacados
-- Plataforma educativa con Moodle y herramientas como Kahoot, Scratch, App Inventor y podcasts
-- Backend para tienda virtual con **Node.js**, estructurado por categorías y usuarios, usando **Faker.js**
-- Asistente inteligente para identificación de herramientas digitales educativas
-
+- Plataforma tipo **CRM** con dashboard diseñada para **abogados**, ayudando su gestión de clientes, procesos y recordatorios pendientes.
+- Aplicativo web para la gestión de eventos culturales y académicos en las **Unidades Tecnológicas de Santander**, con generación de **reportes**
+  y control de ingreso por medio de **códigos QR**.
+- Página web tipo **Ecommerce** para venta de electrodomésticos diseñada en WordPress.
 ---
 
 ## 📫 Conéctate conmigo
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/josue-hernandez-5788391ab/)) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/josue-hernandez-5788391ab/)
 - ✉️ josuehernandezorro147@gmail.com
 - 🌐 [Portafolio Web] *Próximamente*
 
