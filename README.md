@@ -49,7 +49,7 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/josue-hernandez-5788391ab/)
 - ✉️ josuehernandezorro147@gmail.com
-- 🌐 [Portafolio Web] *Próximamente*
+- 🌐 https://portfolio-jodahernandez00.netlify.app/
 
 ---
 
