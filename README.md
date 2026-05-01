@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Josué David Hernández Zorro
 
-🎓 Soy **Desarrollador Web y Estudiante Universitario**  
+🎓 Soy **Desarrollador Web y Tecnólogo en sistemas (próximamente ingeniero)**  
 Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación, diseño y seguridad, todo con un enfoque moderno y práctico. 
 
 🚀 Creo en el poder de la tecnología como motor de cambio y desarrollo. Actualmente enfoco mis esfuerzos en proyectos que integran experiencias interactivas, herramientas educativas digitales, backends sólidos y componentes visuales atractivos.
