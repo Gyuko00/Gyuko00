@@ -55,7 +55,7 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jodahernandez00&theme=tokyonight&hide_border=true&locale=es&timezone=America/Bogota" alt="Racha de contribuciones"/>
+  <img src="https://streak-stats.demolab.com/?user=gyuko00&theme=tokyonight&hide_border=true&locale=es&timezone=America/Bogota" alt="Racha de contribuciones"/>
 </p>
 
 ---
