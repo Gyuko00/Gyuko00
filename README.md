@@ -45,6 +45,21 @@ Me apasiona crear soluciones tecnológicas que mezclen funcionalidad, educación
 - Página web tipo **Ecommerce** para venta de electrodomésticos diseñada en WordPress.
 ---
 
+---
+
+## 📊 Mis estadísticas en GitHub
+
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=gyuko00&show_icons=true&theme=tokyonight&hide_border=true&locale=es&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=gyuko00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jodahernandez00&theme=tokyonight&hide_border=true&locale=es&timezone=America/Bogota" alt="Racha de contribuciones"/>
+</p>
+
+---
+
 ## 📫 Conéctate conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/josue-hernandez-5788391ab/)
